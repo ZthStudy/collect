@@ -14,3 +14,5 @@ useful sites
   - [设计模式插图讲解](https://refactoringguru.cn/)
 ### 框架
   - [红木全栈框架](https://redwoodjs.com/)
+### ts 
+  - [typescript类型体操](https://www.bilibili.com/video/BV1vY41187Tx)
