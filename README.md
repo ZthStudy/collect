@@ -10,6 +10,7 @@ useful sites
   - [正则可视化工具](https://regex-vis.com/)
   - [esmCDN包skypack](https://www.skypack.dev/)
   - [开发者武器库](https://devtool.tech/)
+  - [生成代码片段](https://snippet-generator.app/)
 ### 面试
   - [大厂面试题每日一题](https://q.shanyue.tech/)
 ### 设计模式
